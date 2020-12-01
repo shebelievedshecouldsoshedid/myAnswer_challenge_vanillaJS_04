@@ -1,0 +1,15 @@
+{
+	"name": "myanswer_challenge_vanillajs_04",
+	"version": "1.0.0",
+	"description": "if, else, events",
+	"main": "index.html",
+	"scripts": {
+		"start": "parcel index.html --open",
+		"build": "parcel build index.html"
+	},
+	"author": "YP",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}

@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+	display: flex;
+}
+
+.bigScreen {
+	background-color: 'orange';
+}
+
+.mediumScreen {
+	background-color: 'peru';
+}
+
+.smallScreen {
+	background-color: 'powderblue';
+}
